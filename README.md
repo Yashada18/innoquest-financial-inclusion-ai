@@ -47,6 +47,6 @@ This makes our demo concrete **while remaining scalable** to individuals and urb
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/team-finclusion/innoquest-financial-inclusion-ai.git
+git clone https://github.com/Yashada18/innoquest-financial-inclusion-ai.git
 cd innoquest-financial-inclusion-ai
 
